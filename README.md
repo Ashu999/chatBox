@@ -8,4 +8,4 @@ node server.js
 
 Go to: localhost:3000
 ```
-Video Link: <>
+Video Link: < will be provided soon>
